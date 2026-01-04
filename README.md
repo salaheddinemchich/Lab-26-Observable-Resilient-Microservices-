@@ -101,10 +101,9 @@ docker-compose down -v
 
 ```
 # Demo
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="1419" height="777" alt="image-2" src="https://github.com/user-attachments/assets/328c3287-0ddd-450f-ad50-0210f66cb3d6" />
+<img width="1443" height="857" alt="image-3" src="https://github.com/user-attachments/assets/23eec066-8c0d-4bfe-bf2d-74aceb02c839" />
+
 ## 🔧 Développement Local
 
 ### Compiler un service
